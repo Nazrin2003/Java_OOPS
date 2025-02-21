@@ -7,7 +7,7 @@ public class Complex{
         a = s.nextInt();
         b = s.nextInt(); 
 
-        System.out.println("Enter the real and imaginary part of complex number 1:");   //c + di
+        System.out.println("Enter the real and imaginary part of complex number 2:");   //c + di
         c = s.nextInt();
         d = s.nextInt(); 
 
@@ -15,5 +15,6 @@ public class Complex{
         s_i = b+d;  // sum of imaginary part
 
         System.out.println("Sum of two complex numbers is: "+s_r+" + "+s_i+" i");
+
     }
 }
