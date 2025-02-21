@@ -1,0 +1,51 @@
+Program 1
+
+developer@ccfl6-pc24:~/MCA_B22/java$ javac Product.java
+developer@ccfl6-pc24:~/MCA_B22/java$ java Product
+Product Code: 1
+Product Name: Pen
+Price: 10
+
+Product Code: 2
+Product Name: Pencil
+Price: 5
+
+Product Code: 3
+Product Name: Book
+Price: 60
+
+Price of Pencil is smaller
+
+
+Program 2
+
+developer@ccfl6-pc24:~/MCA_B22/java$ javac Matrix.java
+developer@ccfl6-pc24:~/MCA_B22/java$ java Matrix
+Enter the number of rows and coloumns of first matrix:
+2
+3
+Enter the number of rows and coloumns of second matrix:
+2
+3
+Enter the array values(a):
+1 2 1
+2 3 4
+Enter the array values(b):
+1 3 3
+4 2 3
+The Final Matrix:
+2 5 4 
+6 5 7 
+
+Program 3
+
+developer@ccfl6-pc24:~/MCA_B22/java$ javac Complex.java
+developer@ccfl6-pc24:~/MCA_B22/java$ java Complex
+Enter the real and imaginary part of complex number 1:
+3
+4
+Enter the real and imaginary part of complex number 1:
+1
+2
+Sum of two complex numbers is: 4 + 6 i
+
