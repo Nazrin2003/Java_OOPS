@@ -49,3 +49,14 @@ Enter the real and imaginary part of complex number 1:
 2
 Sum of two complex numbers is: 4 + 6 i
 
+Program 4
+
+developera2@ccfl9-pc1:~/MCA_B22/Java$ javac CPU.java
+developera2@ccfl9-pc1:~/MCA_B22/Java$ java CPU
+Computer Details
+----------------
+CPU Price: 1000
+No. of cores: 8
+Processor Manufacturer: Intel
+RAM Memory: 16
+RAM Manufacturer: CX
