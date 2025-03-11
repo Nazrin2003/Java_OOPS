@@ -1,3 +1,22 @@
+Program 6
+
+developer@ccfl6-pc24:~/MCA_B22/java$ javac StringManipulations.java
+developer@ccfl6-pc24:~/MCA_B22/java$ java StringManipulations
+Enter the first string: running
+Enter the second string: water
+String Manipulations
+---------------------
+Concatenated Strings: running water
+Does running contain 'run'? true
+Does running end with 'ing'? true
+Are the two strings equal? false
+Length of running string: 7
+String 'running' after replacement: spinning
+Does the first string start with 'run'? true
+Substring of the first string (0 to 3): run
+Second string in lowercase: running
+Trimmed  string: 'running water'
+
 Program 7
 
 developer@ccfl6-pc24:~/MCA_B22/java$ javac Employee.java
