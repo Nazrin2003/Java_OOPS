@@ -1,0 +1,26 @@
+Program 7
+
+developer@ccfl6-pc24:~/MCA_B22/java$ javac Employee.java
+developer@ccfl6-pc24:~/MCA_B22/java$ java Employee
+Enter the following details of employee:
+EMPLOYEE NO: 1
+NAME: Ann
+SALARY: 40000
+Enter the following details of employee:
+EMPLOYEE NO: 2
+NAME: Jay
+SALARY: 42000
+Enter the following details of employee:
+EMPLOYEE NO: 3
+NAME: Dan
+SALARY: 37000
+
+EMPLOYEE DETAILS :
+
+EMPLOYEE NO: 1 NAME:Ann SALARY:40000
+EMPLOYEE NO: 2 NAME:Jay SALARY:42000
+EMPLOYEE NO: 3 NAME:Dan SALARY:37000
+
+Enter employee no to search :2
+Employee found !
+EMPLOYEE NO: 2 NAME:Jay SALARY:42000
