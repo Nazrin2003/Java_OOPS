@@ -1,0 +1,15 @@
+Program 8
+
+developer@ccfl6-pc24:~/MCA_B22/java$ javac Area.java
+developer@ccfl6-pc24:~/MCA_B22/java$ java Area
+Enter the following:
+Radius: 3  
+Side: 4
+Length: 4
+Breadth: 2
+Base: 3.3
+Height: 5.0
+Area of circle with radius 3.0 is: 28.259999999999998
+Area of square with side 4 is: 16
+Area of rectangle with length 4 and breadth 2 is: 8
+Area of triangle with base 3.3 and height 5.0 is: 8.25
