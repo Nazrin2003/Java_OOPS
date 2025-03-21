@@ -12,6 +12,8 @@ public class StringManipulations {
 
         System.out.println("String Manipulations\n---------------------");
         
+       System.out.println("First String: " + str1+"\nSecond String: " +str2 );
+
         // 1. Concatenation
         String concatanation = str1.concat(" " + str2);
         System.out.println("Concatenated Strings: " + concatanation );
@@ -47,7 +49,5 @@ public class StringManipulations {
         // 10. Trim
         System.out.println("Trimmed  string: '" + concatanation.trim() + "'");
 
-        // Close the scanner
-        scanner.close();
     }
 }
