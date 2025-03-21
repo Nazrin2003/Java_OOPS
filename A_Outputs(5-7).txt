@@ -6,6 +6,8 @@ Enter the first string: running
 Enter the second string: water
 String Manipulations
 ---------------------
+First String: running
+Second String: water
 Concatenated Strings: running water
 Does running contain 'run'? true
 Does running end with 'ing'? true
