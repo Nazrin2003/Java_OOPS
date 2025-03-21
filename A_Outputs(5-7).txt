@@ -1,3 +1,12 @@
+Program 5
+
+developer@ccfl6-pc24:~/MCA_B22/java$ javac Sort.java
+developer@ccfl6-pc24:~/MCA_B22/java$ java Sort
+Array values :
+do      your    best    at
+Sorted array :
+at      best    do      your
+
 Program 6
 
 developer@ccfl6-pc24:~/MCA_B22/java$ javac StringManipulations.java
