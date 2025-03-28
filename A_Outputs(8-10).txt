@@ -13,3 +13,63 @@ Area of circle with radius 3.0 is: 28.259999999999998
 Area of square with side 4 is: 16
 Area of rectangle with length 4 and breadth 2 is: 8
 Area of triangle with base 3.3 and height 5.0 is: 8.25
+
+Program 9
+
+developer@ccfl6-pc24:~/MCA_B22/java$ javac Main.java
+developer@ccfl6-pc24:~/MCA_B22/java$ java Main
+Enter the number of teachers: 2
+
+Enter details for Teacher 1:
+Name: Ann
+Gender: Female
+Address: Aluva
+Age: 30
+Employee ID: 1
+Company Name: FISAT
+Qualification: MCA
+Salary: 70000
+Subject: Java
+Department: MCA
+Teacher ID: 12
+
+Enter details for Teacher 2:
+Name: Jobin 
+Gender: Male
+Address: Aluva
+Age: 34
+Employee ID: 2
+Company Name: FISAT
+Qualification: MCA
+Salary: 71000
+Subject: Maths
+Department: MCA
+Teacher ID: 15
+
+..............................................
+Details of teachers:
+--------------------
+Name         : Ann
+Gender       : Female
+Address      : Aluva
+Age          : 30
+Employee ID  : 1
+Company Name : FISAT
+Qualification: MCA
+Salary       : 70000.0
+Subject      : Java
+Department   : MCA
+Teacher ID   : 12
+..............................................
+Name         : Jobin
+Gender       : Male
+Address      : Aluva
+Age          : 34
+Employee ID  : 2
+Company Name : FISAT
+Qualification: MCA
+Salary       : 71000.0
+Subject      : Maths
+Department   : MCA
+Teacher ID   : 15
+..............................................
