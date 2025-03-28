@@ -63,7 +63,7 @@ public class Main {
         System.out.print("Enter the number of teachers: ");
         int n = sc.nextInt();
         sc.nextLine(); 
-
+        
         Teacher t[] = new Teacher[n];
 
         for (int i = 0; i < n; i++) {
