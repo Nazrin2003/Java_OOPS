@@ -1,1 +1,18 @@
+Program 15
 
+developer@ccfl6-pc24:~/MCA_B22/java$ javac List.java
+developer@ccfl6-pc24:~/MCA_B22/java$ java List
+List: [Ravi, Vijay, Ravi, Ajay]
+Size of the list: 4
+Value removed at index 1. Current List: [Ravi, Ravi, Ajay]
+Updated List after replacing index 1: [Ravi, Rahul, Ajay]
+Contains 'Ravi': true
+Sorted List: [Ajay, Rahul, Ravi]
+Element at index 2: Ravi
+List cleared. Current List: []
+
+Program 18
+
+developer@ccfl6-pc24:~/MCA_B22/java$ javac Hashset.java
+developer@ccfl6-pc24:~/MCA_B22/java$ java Hashset
+Is the set s1 and s2 equal? Answer:true
