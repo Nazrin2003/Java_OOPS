@@ -13,7 +13,7 @@ public class Hashset{
         s2.add("Banana");
         s2.add("Grapes");
 
-        System.out.println("Is the set s1 and s2 equal?"+s1.equals(s2));
+        System.out.println("Is the set s1 and s2 equal? Answer:"+s1.equals(s2));
         
     }
 }
