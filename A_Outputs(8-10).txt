@@ -73,3 +73,41 @@ Subject      : Maths
 Department   : MCA
 Teacher ID   : 15
 ..............................................
+
+Program 10
+
+developer@ccfl6-pc24:~/MCA_B22/java$ javac Shapes.java
+developer@ccfl6-pc24:~/MCA_B22/java$ java Shapes
+
+Menu:
+1. Calculate area and perimeter of a Circle
+2. Calculate area and perimeter of a Rectangle
+3. Exit
+Enter your choice: 1
+Enter the radius of the circle: 23
+Area of Circle: 1676.9299999999998
+Perimeter of Circle: 144.51326206513048
+
+Menu:
+1. Calculate area and perimeter of a Circle
+2. Calculate area and perimeter of a Rectangle
+3. Exit
+Enter your choice: 2
+Enter the length of the rectangle: 2
+Enter the breadth of the rectangle: 4
+Area of Rectangle: 8.0
+Perimeter of rectangle: 12.0
+
+Menu:
+1. Calculate area and perimeter of a Circle
+2. Calculate area and perimeter of a Rectangle
+3. Exit
+Enter your choice: 4
+Invalid choice.
+
+Menu:
+1. Calculate area and perimeter of a Circle
+2. Calculate area and perimeter of a Rectangle
+3. Exit
+Enter your choice: 3
+Exiting...
